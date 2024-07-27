@@ -44,6 +44,7 @@ Below are the questions asked:
 5 - Create a program in which the user needs to enter a vehicle's license plate and the program checks whether the plate is valid, following the Brazilian standard valid until 2018: - The plate must have 7 alphanumeric characters; - The first three characters are letters (upper or lower case); - The last four characters are numbers;
 
 At the end, the program should display ***True*** if the license plate is valid and ***False*** otherwise.
+
 6 - Create a program that asks the user to display the current date in different formats: - Full format (day of the week, day of the month, month, year, hour, minutes, seconds). - Only the date in the format "03/01/2024". - Only the time in 24 hour format. - The date with the month in full.
 
 ______________________________________________________________________________________________________________
